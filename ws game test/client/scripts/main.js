@@ -48,7 +48,6 @@ class Game {
     }
 
     wsResParser (msg) {
-        console.log(this.players)
         msg = JSON.parse(msg);
         switch (msg.action) {
             case "loadOther":
