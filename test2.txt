@@ -1,0 +1,6 @@
+Board type: CC2530 (without external oscillator, like CC2531 dongle or Sonoff BasicZBR3)
+Device type: Router
+Manufacturer ID: 2137
+Manufacturer name: Texas Instrument
+Model ID: CC2531.ROUTER
+Status LED: P00, Periodic (every 5 seconds)
